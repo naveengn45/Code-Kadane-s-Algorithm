@@ -1,1 +1,0 @@
-# Code-Kadane-s-Algorithm
